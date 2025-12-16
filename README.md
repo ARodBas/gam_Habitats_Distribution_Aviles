@@ -13,12 +13,7 @@ patterns using Generalized Additive Models (GAMs) and environmental predictors.
 
 1. Clone or download this repository.
 2. Open the R project file (`.Rproj`) in RStudio.
-3. Run the scripts in the `scripts/` folder in numerical order:
-   - `01_data_preparation.R`
-   - `02_model_fitting.R`
-   - `03_model_evaluation.R`
-
-All outputs will be written to the `outputs/` directory.
+3. Run the scripts in the `scripts/` folder 
 
 ---
 
