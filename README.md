@@ -9,28 +9,6 @@ patterns using Generalized Additive Models (GAMs) and environmental predictors.
 
 ---
 
-## Repository structure
-
-├── scripts/
-│ ├── 01_models_zone1.R
-│ ├── 02_models_zone2.R
-│
-├── data/
-│ ├── pres_abs/ Presence–absence data
-│ ├── densities/ Species density data
-│ └── predictors/ Environmental predictors
-│
-├── outputs/
-│ ├── pres_abs/ Binary presence–absence maps
-│ └── delta/ Delta maps
-│
-└── README.md
-
-----
-
-
----
-
 ## How to reproduce the analysis
 
 1. Clone or download this repository.
